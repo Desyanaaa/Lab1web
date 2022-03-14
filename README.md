@@ -52,10 +52,10 @@
 <h3>10. Perbedaan atribut alt dengan title pada tag img</h3>
 <p>Atribut alt digunakan untuk memberikan deskripsi pada gambar di halaman apabila gambar nantinya gagal untuk dimuat.<br\>
   Sedangkan penggunaan title hampir sama dengan atribut alt hanya saja atribut title tampilannya pop up.</p>
-<h3>12. Penggunaan widht dan height pada img HTML</h3>
+<h3>11. Penggunaan widht dan height pada img HTML</h3>
 <p>Dalam HTML, widht dan height biasanya hanya digunakan pada tag img untuk mengatur ukuran gambar.<br\>
   Agar bentuk gambar proporsional dan tidak ada ketimpangan, fungsi widht dan height sebaiknya diaplikasikan secara bersamaan.</p>
-<h3>13. Atribut hyperlink</h3>
+<h3>12. Atribut hyperlink</h3>
 <p>a. _blank, berfungsi untuk membuka link pada tab baru di browser</p>
 <p>b. _self, atribut ini merupakan default target yang akan membuka link pada halaman tersebut.</p>
 <p>c. _top, link ini akan membuat halaman kembali ke paling atas halaman.</p>
